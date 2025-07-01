@@ -532,8 +532,11 @@ section.about-section {
         width: 100%;
     }
     .experience {
-        padding: 0;
+        padding: 20px 0;
     }
+    .container {
+    max-width: 100%;
+}
     a.project-card {
         width: auto;
     }

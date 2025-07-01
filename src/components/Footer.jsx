@@ -7,7 +7,9 @@ const Footer = () => {
         <h2>Let’s make something amazing together</h2>
         <div className="contact-info">
           <p>📍 Mohali, Chandigrah</p>
-          <p>📞 +91 7807050501</p>
+        <a href="tel:78070-50501" >
+              📞 Call: 78070-50501
+            </a>
           <p>📧 abhishekatter3@gmail.com</p>
         </div>
       </footer>
